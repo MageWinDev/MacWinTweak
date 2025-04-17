@@ -7,7 +7,6 @@
 
 ---
 
-## 🇬🇧 English Version
 
 ### ✅ Supported Devices
 | Mac Device         | Year         | Works With Windows |
